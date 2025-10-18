@@ -6,3 +6,5 @@
 
 ## Contact
 > Email: liteservermanager@gmail.com
+
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=liteservermanager.liteservermanager)
