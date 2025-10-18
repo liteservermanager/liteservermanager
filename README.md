@@ -5,4 +5,4 @@
 - <a href="https://github.com/liteservermanager/pages">Lite Server Manager</a>
 
 ## Contact
-> liteservermanager@gmail.com
+> Email: liteservermanager@gmail.com
